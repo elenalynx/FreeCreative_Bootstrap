@@ -4,8 +4,9 @@ $(document).ready(function(){
         loop:true,
         margin:0,
 
-        // autoplay: true,
-        autoplayTimeout: 1000,
+        autoplay: true,
+        autoplayTimeout: 2000,
+
         nav:true,
         navText: [ '', ' ' ],
 

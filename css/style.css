@@ -13,4 +13,18 @@
   background-image: url("../images/014.jpg");
 }
 
+header {
+  z-index: 3;
+}
+
+.description {
+  width: 100%;
+  position: absolute;
+  height: 100vh;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
 /*# sourceMappingURL=style.css.map */
